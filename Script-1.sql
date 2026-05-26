@@ -1,0 +1,1 @@
+drop index orp_perm_id_index
